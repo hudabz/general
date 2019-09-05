@@ -12,7 +12,7 @@ Welcome to Frontend Web Development. This repository contains information and ma
   - [ebere.iweala@generalassemb.ly](mailto:ebere.iweala@generalassemb.ly)
 
 - **Kuda Binzaqr** (Facilitator)
-  - [EMAIL](mailto:kuda.binzaqr@generalassemb.ly)
+  - [Huda_bz@hotmail.com](mailto:Huda_bz@hotmail.com) 
   - Weekday Office Hours: 6pm - 9pm (Offline) / 
   - Saturday 2pm - 4pm (Online/Offline)
 
