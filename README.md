@@ -3,7 +3,7 @@
 Welcome to Frontend Web Development. This repository contains information and materials specific to your course.
 
 # Important links
-- [Class Slack](https://miskacademy.slack.com/messages/CFCFWUA4S/)
+- [Class Slack](https://miskacademy.slack.com/messages/)
 - [Exit Ticket](https://google.com/)
 
 
@@ -25,6 +25,6 @@ General Assembly's Frontend Web Development course is made up of 20 lessons that
 
 ## Unit 1
 | Class | Title | Lab | HW |
-| --- | :---: | 
+| --- | --- | --- | :---: | 
 | Lesson 0 | [Installfest](curriculum/00-installfest/readme.md) || | |
 | Lesson 1 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
