@@ -1,5 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
-# Frontend Web Development 1
+# Frontend Web Development (Jeddah Oct-2019)
 Welcome to Frontend Web Development. This repository contains information and materials specific to your course.
 
 # Important links
